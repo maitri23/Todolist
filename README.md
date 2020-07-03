@@ -73,4 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Published To do app
 
-https://takhilabhinav.github.io/todo/
+https://maitri23.github.io/todolist/
